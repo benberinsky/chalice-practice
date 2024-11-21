@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "app_name": "run_on_schedule",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
